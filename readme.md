@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Javascript Testing Framework}</h1>
+<h1 align="center">Javascript Testing Framework</h1>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -50,7 +50,3 @@ It can find and run all files in project directory that have a name \*.js
 
 - GitHub [@abhishekbu](https://{github.com/abhishekbu})
 - Instagram [@abhiburockzz](https://{www.instagram.com/abhiburockzz/})
-
-\href{mailto:abhishekbu30@gmail.com} {abhishekbu30@gmail.com} |
-\href{https://www.linkedin.com/in/abhishekbu/}{linkedin.com/in/abhishekbu/} \\
-| 8618989748 | \href{https://github.com/abhishekbu}{github.com/abhishekbu}
